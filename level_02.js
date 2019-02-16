@@ -55,30 +55,30 @@ if (mouseX<12 && mouseY>250 && mouseY<375){
        
  
   if ((mouseIsPressed) && (mouseX<2256)){
-    image(notreffa, mouseX-120, mouseY-50);
- 		rect(0,0,3196,631);  
-   	fill(255,0,0,50);
+    image(notreffa, mouseX-120, mouseY-190);
+ 	//	rect(0,0,3196,631);  
+   	//fill(255,0,0,50);
   }
   if ((mouseIsPressed) && (mouseX>2265)){
-    image(notreffa, mouseX-120, mouseY-50);
- 		rect(0,0,3196,631);  
-   	fill(255,0,0,50);
+    image(notreffa, mouseX-120, mouseY-190);
+ 	//	rect(0,0,3196,631);  
+   	//fill(255,0,0,50);
   }
     if ((mouseIsPressed) && (mouseY<71)){
-    image(notreffa, mouseX-120, mouseY-50);
- 		rect(0,0,3196,631);  
-   	fill(255,0,0,50);
+    image(notreffa, mouseX-120, mouseY-190);
+ 		//rect(0,0,3196,631);  
+   	//fill(255,0,0,50);
   }
       if ((mouseIsPressed) && (mouseY>83)){
-    image(notreffa, mouseX-120, mouseY-50);
- 		rect(0,0,3196,631);  
-   	fill(255,0,0,50);
+    image(notreffa, mouseX-120, mouseY-190);
+ 	//	rect(0,0,3196,631);  
+   	//fill(255,0,0,50);
   }
 
        }
 
 function hintergrund() {
-  image(fuck,0,0);
+ image(fuck,0,0);
 	image(mouseF,mouseX-29,mouseY-40,80,80);
    
 
