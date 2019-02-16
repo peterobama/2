@@ -48,7 +48,7 @@ if (mouseX<12 && mouseY>250 && mouseY<375){
      
    noLoop();
     image(schein,2245,52);
-    nextLevel.position(2200,150);
+    nextLevel.position(2100,150);
 
 
        }
